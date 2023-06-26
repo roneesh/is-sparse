@@ -1,0 +1,20 @@
+{
+  "name": "is-sparse",
+  "version": "1.0.0",
+  "description": "a method to determine if an array is sparse",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "javascript",
+    "array",
+    "sparse",
+    "dense"
+  ],
+  "author": "Roneesh Vashisht",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.0.2"
+  }
+}
