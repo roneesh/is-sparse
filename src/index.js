@@ -1,3 +1,5 @@
 var isSparse = require('./is-sparse.js');
 
-Array.isSparse = isSparse;
+if (!Array.isSparse) {
+  Array.isSparse = isSparse;
+}
