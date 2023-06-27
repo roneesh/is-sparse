@@ -16,5 +16,8 @@
   "license": "ISC",
   "devDependencies": {
     "jasmine": "^5.0.2"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
